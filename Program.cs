@@ -24,10 +24,10 @@ namespace HardDiskTracker
                 int diskAvail = Convert.ToInt32(gbDiskAvail / gbConversion);
                 int diskStart = Convert.ToInt32(gbDiskStart / gbConversion);
 
-                Console.WriteLine(diskAvail + " gb");
-                Console.WriteLine(diskStart + " gb");
-                Console.WriteLine(drv.TotalFreeSpace + " Bytes");
-                Console.Write(drv.TotalSize + " Bytes");
+                Console.WriteLine(diskAvail + "gb free.");
+                Console.WriteLine(diskStart + " gb total disk size.");
+                Console.WriteLine(drv.TotalFreeSpace + " Bytes free.");
+                Console.Write(drv.TotalSize + " Bytes total disk size.");
 
                 Console.ReadKey();
             }
