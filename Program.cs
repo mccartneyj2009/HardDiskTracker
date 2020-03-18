@@ -26,6 +26,7 @@ namespace HardDiskTracker
 
                 Console.WriteLine("Name of Disk: " + name);
                 Console.WriteLine("Disk Label: " + label);
+                Console.WriteLine("Drive Type: " + type);
                 Console.WriteLine();
                 Console.WriteLine(diskAvail + "gb free.");
                 Console.WriteLine(diskStart + " gb total disk size.");
