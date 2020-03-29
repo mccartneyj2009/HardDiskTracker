@@ -4,3 +4,4 @@ C:\Users\13303\source\repos\HardDiskTracker\bin\Debug\HardDiskTracker.pdb
 C:\Users\13303\source\repos\HardDiskTracker\obj\Debug\HardDiskTracker.csprojAssemblyReference.cache
 C:\Users\13303\source\repos\HardDiskTracker\obj\Debug\HardDiskTracker.exe
 C:\Users\13303\source\repos\HardDiskTracker\obj\Debug\HardDiskTracker.pdb
+C:\Users\13303\source\repos\HardDiskTracker\obj\Debug\HardDiskTracker.csproj.CoreCompileInputs.cache
