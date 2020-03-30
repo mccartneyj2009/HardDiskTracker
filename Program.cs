@@ -11,6 +11,10 @@ namespace HardDiskTracker
             GeneralDiskInformation.GetAttachedDisks(allDrives);
             DriveAvailableSpace.DiskAvailable(allDrives);
             DriveRemainingSpace.DiskRemaining(allDrives);
+            Console.WriteLine();
+
+            //LargestFiles.FindLargestFiles();
+
             Console.ReadLine();
         }
     }

@@ -5,3 +5,7 @@ C:\Users\13303\source\repos\HardDiskTracker\obj\Debug\HardDiskTracker.csprojAsse
 C:\Users\13303\source\repos\HardDiskTracker\obj\Debug\HardDiskTracker.exe
 C:\Users\13303\source\repos\HardDiskTracker\obj\Debug\HardDiskTracker.pdb
 C:\Users\13303\source\repos\HardDiskTracker\obj\Debug\HardDiskTracker.csproj.CoreCompileInputs.cache
+C:\Users\13303\source\repos\HardDiskTracker\bin\Debug\HardDiskTracker.exe.manifest
+C:\Users\13303\source\repos\HardDiskTracker\bin\Debug\HardDiskTracker.application
+C:\Users\13303\source\repos\HardDiskTracker\obj\Debug\HardDiskTracker.exe.manifest
+C:\Users\13303\source\repos\HardDiskTracker\obj\Debug\HardDiskTracker.application
